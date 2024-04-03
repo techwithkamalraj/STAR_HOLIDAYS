@@ -154,6 +154,24 @@ h4{
         display: none;
     }
 }
+@media screen and (max-width: 912px) {
+    .navbar {
+        flex-direction: row;
+        justify-content: space-between;
+        text-align: center;
+    }
+    li {
+        float: none;
+        display: block;
+        padding: 10px 0;
+    }
+    #nav{
+        display: none;
+    }
+    #started{
+        display: none;
+    }
+}
 
 @media screen and (min-width: 820px) {
     .bi-list {
