@@ -1,0 +1,14 @@
+.black{
+    font-size: 80px;
+    font-family: sans-serif;
+    color: wheat;
+}
+.style{
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.price{
+    color :orange;
+    font-size: 20px;
+}
