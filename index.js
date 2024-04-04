@@ -9,6 +9,9 @@ document.addEventListener('DOMContentLoaded', function() {
         sidebar.classList.toggle('active');
     });
 });
+// SCROLL NAVBAR
+
+
 
 document.addEventListener('DOMContentLoaded', function() {
     let listIcon = document.querySelector('.bi-list');
